@@ -1,12 +1,12 @@
-﻿# CPNT 262 Assignment 4: JSON gallery endpoint with fetch
-By Xia Lin March 19, 2021
+﻿# CPNT 262 Assignment 5: JSON Routes with Heroku and MongoDB Atlas
+By Xia Lin March 24, 2021
 
 ## Description
 A website for online sales of high-end furniture!
 
 ## Comments
 
-The most difficult part of this assignment is to display the products separately according to the ID of different products.I tried to use TONY’s code in Saturday’s class, but the server kept telling me that the page could not be found. I couldn’t find the reason, so I asked other students about this code.
+The most difficult part of this assignment is to display the products separately according to the ID of different products. I tried to use TONY’s code in Saturday’s class, but the server kept telling me that the page could not be found. I couldn’t find the reason, so I asked other students about this code.
 
 ## Attributions
 - [Logo.jpg](https://www.designevo.com/ "Logo") by DesignEvo.
@@ -38,6 +38,9 @@ The most difficult part of this assignment is to display the products separately
 
 - 404 error page example:
 --- https://cpnt262a5-20210324.herokuapp.com/404
+
+- String for MONGODB_URL":
+--- MONGODB_URL=mongodb+srv://xialin:1982@cluster0.klahv.mongodb.net/sait?retryWrites=true&w=majority
 
 ## File/directory
 - /nodels<br />
