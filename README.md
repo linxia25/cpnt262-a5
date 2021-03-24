@@ -6,7 +6,7 @@ A website for online sales of high-end furniture!
 
 ## Comments
 
-The most difficult part of this assignment is to display the products separately according to the ID of different products. I tried to use TONY’s code in Saturday’s class, but the server kept telling me that the page could not be found. I couldn’t find the reason, so I asked other students about this code.
+The most difficult part of this assignment is to display the products separately according to the ID of different products. I tried to use TONY’s code in Saturday’s class, but the server kept telling me that the page could not be found. I couldn’t find the reason, So I asked other students about the relevant content.
 
 ## Attributions
 - [Logo.jpg](https://www.designevo.com/ "Logo") by DesignEvo.
