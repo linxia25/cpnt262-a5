@@ -1,5 +1,5 @@
 {
-  "name": "cpnt262-a4",
+  "name": "cpnt262-a5",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -8,8 +8,8 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Xia Lin",
+  "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",

@@ -3,11 +3,14 @@ const Furniture = require('../models/furniture');
 
 const router = express.Router();
 
+//display all products
+
 router.get('/', (request, response) => {
 
   response.render('pages/index', {pageTitle: "Smile Furnitures"});
 })
 
+//display single product
 router.get('/:id', async (req, res, next) => {
   try {
     const furniture = await Furniture.findOne({id: req.params.id});
