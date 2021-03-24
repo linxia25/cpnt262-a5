@@ -26,15 +26,15 @@ The most difficult part of this assignment is to display the products separately
 - GH repo: https://github.com/linxia25/cpnt262-a5.git
 - Heroku URL: https://cpnt262a5-20210324.herokuapp.com/
 - Single item pages:
---- https://cpnt262a5-20210324.herokuapp.com/furnitures/1350789
---- https://cpnt262a5-20210324.herokuapp.com/furnitures/1866149
---- https://cpnt262a5-20210324.herokuapp.com/furnitures/3773575
---- https://cpnt262a5-20210324.herokuapp.com/furnitures/1648768
---- https://cpnt262a5-20210324.herokuapp.com/furnitures/890669
---- https://cpnt262a5-20210324.herokuapp.com/furnitures/439227
---- https://cpnt262a5-20210324.herokuapp.com/furnitures/3097112
---- https://cpnt262a5-20210324.herokuapp.com/furnitures/879821
---- https://cpnt262a5-20210324.herokuapp.com/furnitures/245208
+--- https://cpnt262a5-20210324.herokuapp.com/furnitures/1350789<br />
+- https://cpnt262a5-20210324.herokuapp.com/furnitures/1866149
+- https://cpnt262a5-20210324.herokuapp.com/furnitures/3773575
+- https://cpnt262a5-20210324.herokuapp.com/furnitures/1648768
+- https://cpnt262a5-20210324.herokuapp.com/furnitures/890669
+- https://cpnt262a5-20210324.herokuapp.com/furnitures/439227
+- https://cpnt262a5-20210324.herokuapp.com/furnitures/3097112
+- https://cpnt262a5-20210324.herokuapp.com/furnitures/879821
+- https://cpnt262a5-20210324.herokuapp.com/furnitures/245208
 
 - 404 error page example:
 --- https://cpnt262a5-20210324.herokuapp.com/404
