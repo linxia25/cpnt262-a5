@@ -25,62 +25,62 @@ The most difficult part of this assignment is to display the products separately
 ## Links
 - GH repo: https://github.com/linxia25/cpnt262-a5.git
 - Heroku URL: https://cpnt262a5-20210324.herokuapp.com/
-- Single item pages:
+- Single item pages:<br />
 --- https://cpnt262a5-20210324.herokuapp.com/furnitures/1350789<br />
-- https://cpnt262a5-20210324.herokuapp.com/furnitures/1866149
-- https://cpnt262a5-20210324.herokuapp.com/furnitures/3773575
-- https://cpnt262a5-20210324.herokuapp.com/furnitures/1648768
-- https://cpnt262a5-20210324.herokuapp.com/furnitures/890669
-- https://cpnt262a5-20210324.herokuapp.com/furnitures/439227
-- https://cpnt262a5-20210324.herokuapp.com/furnitures/3097112
-- https://cpnt262a5-20210324.herokuapp.com/furnitures/879821
-- https://cpnt262a5-20210324.herokuapp.com/furnitures/245208
+--- https://cpnt262a5-20210324.herokuapp.com/furnitures/1866149<br />
+--- https://cpnt262a5-20210324.herokuapp.com/furnitures/3773575<br />
+--- https://cpnt262a5-20210324.herokuapp.com/furnitures/1648768<br />
+--- https://cpnt262a5-20210324.herokuapp.com/furnitures/890669<br />
+--- https://cpnt262a5-20210324.herokuapp.com/furnitures/439227<br />
+--- https://cpnt262a5-20210324.herokuapp.com/furnitures/3097112<br />
+--- https://cpnt262a5-20210324.herokuapp.com/furnitures/879821<br />
+--- https://cpnt262a5-20210324.herokuapp.com/furnitures/245208<br />
 
 - 404 error page example:
 --- https://cpnt262a5-20210324.herokuapp.com/404
 
 ## File/directory
-- /nodels
---- /furniture.js
+- /nodels<br />
+--- /furniture.js<br />
 
-- /public
-- /css
---- /style.css
---- /index.css
---- /login.css
---- /register.css
---- /reset.css
-- /images
---- /accent-table.jpg
---- /chair.jpg
---- /bed.jpg
---- /sofa.jpg
---- /sofa-bed.jpg
---- /table.jpg
----/malm-dresser.jpg
----/shelves.jpg
----/wooden-table.jpg
----/logo.png
----/404.png
-- /js
----/client.js
-- /routes
---- /furnitures.js
---- /api
-  --- /v0.js
---- index.js
+- /public<br />
+- /css<br />
+--- /style.css<br />
+--- /index.css<br />
+--- /login.css<br />
+--- /register.css<br />
+--- /reset.css<br />
+- /images<br />
+--- /accent-table.jpg<br />
+--- /chair.jpg<br />
+--- /bed.jpg<br />
+--- /sofa.jpg<br />
+--- /sofa-bed.jpg<br />
+--- /table.jpg<br />
+---/malm-dresser.jpg<br />
+---/shelves.jpg<br />
+---/wooden-table.jpg<br />
+---/logo.png<br />
+---/404.png<br />
+- /js<br />
+---/client.js<br />
+- /routes<br />
+--- /furnitures.js<br />
+--- /api<br />
+  --- /v0.js<br />
+--- index.js<br />
 
-- /views
---- /pages
-  --- index.ejs
-  --- login.ejs
-  --- register.ejs
-  --- 404.ejs
-  --- singleitem.js
---- /partials
-  --- /footer.ejs
-  --- /header.ejs
-  --- /nav.ejs
+- /views<br />
+--- /pages<br />
+  --- index.ejs<br />
+  --- login.ejs<br />
+  --- register.ejs<br />
+  --- 404.ejs<br />
+  --- singleitem.js<br />
+--- /partials<br />
+  --- /footer.ejs<br />
+  --- /header.ejs<br />
+  --- /nav.ejs<br />
 
 - /.env.text
 
