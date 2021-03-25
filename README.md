@@ -20,7 +20,6 @@ The most difficult part of this assignment is to display the single product by t
 - [shelves.jpg](https://www.pexels.com/photo/interior-of-children-bedroom-with-wooden-furniture-and-toys-and-globe-placed-on-shelves-in-room-3932930/) by Tatiana Syrikova.
 - [wooden-table.jpg](https://www.pexels.com/photo/brown-wooden-table-with-chair-3097112/) by Nugroho Wahyu.
 - [Login/Register Page](https://codepen.io/colorlib/pen/rxddKy) by Aigars Silkalns.
-- Thanks Aidan for help!
 
 ## Links
 - GH repo: https://github.com/linxia25/cpnt262-a5.git
