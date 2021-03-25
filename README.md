@@ -6,7 +6,7 @@ A website for online sales of high-end furniture!
 
 ## Comments
 
-The most difficult part of this assignment is to display the products separately according to the ID of different products. I tried to use TONY’s code in Saturday’s class, but the server kept telling me that the page could not be found. I couldn’t find the reason, So I asked other students about the relevant content.
+The most difficult part of this assignment is to display the single product by title. At the beginning, I spent a lot of time facing an undefined error. After consulting with TONY, I finally realized that in any http link there will be a string instead of a number. Thank you Tony!
 
 ## Attributions
 - [Logo.jpg](https://www.designevo.com/ "Logo") by DesignEvo.
@@ -26,15 +26,15 @@ The most difficult part of this assignment is to display the products separately
 - GH repo: https://github.com/linxia25/cpnt262-a5.git
 - Heroku URL: https://cpnt262a5-20210324.herokuapp.com/
 - Single item pages:<br />
---- https://cpnt262a5-20210324.herokuapp.com/furnitures/1350789<br />
---- https://cpnt262a5-20210324.herokuapp.com/furnitures/1866149<br />
---- https://cpnt262a5-20210324.herokuapp.com/furnitures/3773575<br />
---- https://cpnt262a5-20210324.herokuapp.com/furnitures/1648768<br />
---- https://cpnt262a5-20210324.herokuapp.com/furnitures/890669<br />
---- https://cpnt262a5-20210324.herokuapp.com/furnitures/439227<br />
---- https://cpnt262a5-20210324.herokuapp.com/furnitures/3097112<br />
---- https://cpnt262a5-20210324.herokuapp.com/furnitures/879821<br />
---- https://cpnt262a5-20210324.herokuapp.com/furnitures/245208<br />
+--- https://cpnt262a5-20210324.herokuapp.com/furnitures/Chair<br />
+--- https://cpnt262a5-20210324.herokuapp.com/furnitures/Sofa<br />
+--- https://cpnt262a5-20210324.herokuapp.com/furnitures/Bed<br />
+--- https://cpnt262a5-20210324.herokuapp.com/furnitures/Sofa-bed<br />
+--- https://cpnt262a5-20210324.herokuapp.com/furnitures/Table<br />
+--- https://cpnt262a5-20210324.herokuapp.com/furnitures/Accent-table<br />
+--- https://cpnt262a5-20210324.herokuapp.com/furnitures/Wooden-table<br />
+--- https://cpnt262a5-20210324.herokuapp.com/furnitures/Malm-dresser<br />
+--- https://cpnt262a5-20210324.herokuapp.com/furnitures/Shelves<br />
 
 - 404 error page example:
 --- https://cpnt262a5-20210324.herokuapp.com/404

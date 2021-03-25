@@ -7,6 +7,7 @@ const index = require('./routes/index');
 const furnitures = require('./routes/furnitures');
 const api = require('./routes/api/v0');
 const pages = require('./routes/index');
+const db = mongoose.connection;
 
 // Create express app
 const app = express();
@@ -26,6 +27,11 @@ app.use('/furnitures', furnitures);
 app.use(function(req, res) {
   res.status(404);
   res.render('pages/404', {pageTitle: "Smile Furnitures"});
+});
+
+// Connect to DB
+db.on('error', function(error){
+  res.render('pages/500', {pageTitle: "Smile Furnitures"});
 });
 
 // Set port preferrence with default
