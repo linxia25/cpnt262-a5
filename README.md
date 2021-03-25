@@ -36,8 +36,9 @@ The most difficult part of this assignment is to display the single product by t
 --- https://cpnt262a5-20210324.herokuapp.com/furnitures/Malm-dresser<br />
 --- https://cpnt262a5-20210324.herokuapp.com/furnitures/Shelves<br />
 
-- 404 error page example:
---- https://cpnt262a5-20210324.herokuapp.com/404
+- 404 error page example:<br />
+--- https://cpnt262a5-20210324.herokuapp.com/404<br />
+--- https://cpnt262a5-20210324.herokuapp.com/furnitures/aabbccddeeff<br />
 
 - String for MONGODB_URL":
 --- MONGODB_URL=mongodb+srv://xialin:1982@cluster0.klahv.mongodb.net/sait?retryWrites=true&w=majority

@@ -19,8 +19,7 @@ router.get('/:title', (request, response) => {
   })
 
   if (!furniture) {
-    console.log(furniture);
-    response.sendStatus(404);
+    response.render('pages/404', {pageTitle: "Smile Furnitures"});
     
   }
 

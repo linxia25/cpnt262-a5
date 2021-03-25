@@ -17,7 +17,7 @@ router.get('/furnitures', (req, res) => {
 router.get('/furnitures/:id', (req, res) => {
   Furniture.findOne({id: req.params.id}, (err, furnitures) => {
     if (err || !furnitures) {
-      res.status(404).send({error:"Not fond"})
+      res.status(404).send({error:"Not found"})
     }
     res.json(furnitures)
   })
