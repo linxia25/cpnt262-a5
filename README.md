@@ -40,7 +40,7 @@ The most difficult part of this assignment is to display the single product by t
 --- https://cpnt262a5-20210324.herokuapp.com/404<br />
 --- https://cpnt262a5-20210324.herokuapp.com/furnitures/aabbccddeeff<br />
 
-- String for MONGODB_URL":
+- String for MONGODB_URL":<br />
 --- MONGODB_URL=mongodb+srv://xialin:1982@cluster0.klahv.mongodb.net/sait?retryWrites=true&w=majority
 
 ## File/directory
