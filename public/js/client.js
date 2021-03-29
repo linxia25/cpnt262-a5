@@ -18,8 +18,8 @@ output +=
     `<figure>
     <a href="furnitures/${furnitures.title}" target:"_blank"><img src="${furnitures.pathURL}" alt="pexels:${furnitures.title}" width='${furnitures.width}px' height='${furnitures.height}px'></a>
       <figcaption>
-        <h1> <a href="furnitures/${furnitures.title}" target:"_blank">${furnitures.title}</a></h1>
-        <h2>${furnitures.description}</h2>
+        <h2> <a href="furnitures/${furnitures.title}" target:"_blank">${furnitures.title}</a></h2>
+        <h3>${furnitures.description}</h3>
         <a href="${furnitures.creditURL}" target="_blank">Design by ${furnitures.credit}</a>
         <a href="${furnitures.linkURL}" target="_blank">More Info</a>
       </figcaption>

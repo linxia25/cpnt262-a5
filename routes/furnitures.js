@@ -10,7 +10,7 @@ router.get('/', (request, response) => {
   response.render('pages/index', {pageTitle: "Smile Furnitures"});
 })
 
-//display single product
+//Tony's code : display single product
 
 router.get('/:title', (request, response) => {
   
